@@ -9,7 +9,6 @@ A high-end online-transaction-processing-style application server delivers busin
 
 As the application server market matures, high performance becomes a stronger criterion, and thus where vendors now incorporate extensions to application servers, such as extreme transaction processing and event-based processing capabilities, these are also included in this market segment.
 ## Procedure :
-
  1. login to the network server using login link  https://iot.saveetha.in/
  2.  click on the Application server as shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
@@ -26,13 +25,8 @@ As the application server market matures, high performance becomes a stronger cr
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/4becc339-c77e-4568-9b79-aeaed3734169)
 8. save to update the visualization on the dashboard as shown in the output 
 
-
 ## OUTPUT 
- 
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
-
-
+![Screenshot 2024-05-08 095022](https://github.com/22008837/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/120194155/b67d8a91-f81f-4efc-a67c-980afd9e0ec2)
 
 ## Results: 
-
   The Application  server and network server data is add on the data dashboard using visualiztion editor 
